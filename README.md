@@ -1,0 +1,2 @@
+# Not Uygulaması 
+Bir projedir.
