@@ -8,3 +8,4 @@ git add    : dosyayı staging area'ya alır
 git commit : staging'deki değişiklikleri kaydeder
 git status : dosyaların durumunu gösterir
 git log    : commit geçmişini gösterir
+git push : commit'leri GitHub'a gönderir
