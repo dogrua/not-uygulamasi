@@ -1,3 +1,3 @@
-# Not Uygulaması 
+# Not Uygulaması
 Bir projedir.
-Geliştirici: Ali Doğru (main versiyonu)
+Geliştirici: Ali Doğru (main ve feature versiyonları birleştirildi)
